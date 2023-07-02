@@ -1,0 +1,6 @@
+D:\Estudos\Aulas JN Moura\Angular\projetoFinal\web-avaliacao4\Models\bin\Debug\Models.dll
+D:\Estudos\Aulas JN Moura\Angular\projetoFinal\web-avaliacao4\Models\bin\Debug\Models.pdb
+D:\Estudos\Aulas JN Moura\Angular\projetoFinal\web-avaliacao4\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\Estudos\Aulas JN Moura\Angular\projetoFinal\web-avaliacao4\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Estudos\Aulas JN Moura\Angular\projetoFinal\web-avaliacao4\Models\obj\Debug\Models.dll
+D:\Estudos\Aulas JN Moura\Angular\projetoFinal\web-avaliacao4\Models\obj\Debug\Models.pdb

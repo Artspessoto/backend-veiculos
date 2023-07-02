@@ -1,0 +1,6 @@
+D:\Estudos\Aulas JN Moura\Angular\projetoFinal\web-avaliacao4\Logger\bin\Debug\Logger.dll
+D:\Estudos\Aulas JN Moura\Angular\projetoFinal\web-avaliacao4\Logger\bin\Debug\Logger.pdb
+D:\Estudos\Aulas JN Moura\Angular\projetoFinal\web-avaliacao4\Logger\obj\Debug\Logger.csproj.AssemblyReference.cache
+D:\Estudos\Aulas JN Moura\Angular\projetoFinal\web-avaliacao4\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\Estudos\Aulas JN Moura\Angular\projetoFinal\web-avaliacao4\Logger\obj\Debug\Logger.dll
+D:\Estudos\Aulas JN Moura\Angular\projetoFinal\web-avaliacao4\Logger\obj\Debug\Logger.pdb

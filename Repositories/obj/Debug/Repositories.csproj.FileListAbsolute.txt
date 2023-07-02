@@ -1,0 +1,9 @@
+D:\Estudos\Aulas JN Moura\Angular\projetoFinal\web-avaliacao4\Repositories\bin\Debug\Repositories.dll
+D:\Estudos\Aulas JN Moura\Angular\projetoFinal\web-avaliacao4\Repositories\bin\Debug\Repositories.pdb
+D:\Estudos\Aulas JN Moura\Angular\projetoFinal\web-avaliacao4\Repositories\bin\Debug\Models.dll
+D:\Estudos\Aulas JN Moura\Angular\projetoFinal\web-avaliacao4\Repositories\bin\Debug\Models.pdb
+D:\Estudos\Aulas JN Moura\Angular\projetoFinal\web-avaliacao4\Repositories\obj\Debug\Repositories.csproj.AssemblyReference.cache
+D:\Estudos\Aulas JN Moura\Angular\projetoFinal\web-avaliacao4\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+D:\Estudos\Aulas JN Moura\Angular\projetoFinal\web-avaliacao4\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+D:\Estudos\Aulas JN Moura\Angular\projetoFinal\web-avaliacao4\Repositories\obj\Debug\Repositories.dll
+D:\Estudos\Aulas JN Moura\Angular\projetoFinal\web-avaliacao4\Repositories\obj\Debug\Repositories.pdb
